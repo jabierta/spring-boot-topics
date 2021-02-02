@@ -1,2 +1,0 @@
-com/spring_boot_security/api/ApplicationTests.java
- com.spring_boot_security.api.ApplicationTests
