@@ -1,0 +1,78 @@
+## spring_boot_schedule
+spring-boot-schedule/HELP.md
+spring-boot-schedule/.gradle
+spring-boot-schedule/build/
+spring-boot-schedule/!gradle/wrapper/gradle-wrapper.jar
+spring-boot-schedule/!**/src/main/**/build/
+spring-boot-schedule/!**/src/test/**/build/
+
+### STS ###
+spring-boot-schedule/.apt_generated
+spring-boot-schedule/.classpath
+spring-boot-schedule/.factorypath
+spring-boot-schedule/.project
+spring-boot-schedule/.settings
+spring-boot-schedule/.springBeans
+spring-boot-schedule/.sts4-cache
+spring-boot-schedule/bin/
+spring-boot-schedule/!**/src/main/**/bin/
+spring-boot-schedule/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+spring-boot-schedule/.idea
+spring-boot-schedule/*.iws
+spring-boot-schedule/*.iml
+spring-boot-schedule/*.ipr
+spring-boot-schedule/out/
+spring-boot-schedule/!**/src/main/**/out/
+spring-boot-schedule/!**/src/test/**/out/
+
+### NetBeans ###
+spring-boot-schedule/nbproject/private/
+spring-boot-schedule/nbbuild/
+spring-boot-schedule/dist/
+spring-boot-schedule/nbdist/
+spring-boot-schedule/.nb-gradle/
+
+### VS Code ###
+spring-boot-schedule/.vscode/
+
+
+## spring_boot_security
+spring-boot-security/HELP.md
+spring-boot-security/.gradle
+spring-boot-security/build/
+spring-boot-security/!gradle/wrapper/gradle-wrapper.jar
+spring-boot-security/!**/src/main/**/build/
+spring-boot-security/!**/src/test/**/build/
+
+### STS ###
+spring-boot-security/.apt_generated
+spring-boot-security/.classpath
+spring-boot-security/.factorypath
+spring-boot-security/.project
+spring-boot-security/.settings
+spring-boot-security/.springBeans
+spring-boot-security/.sts4-cache
+spring-boot-security/bin/
+spring-boot-security/!**/src/main/**/bin/
+spring-boot-security/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+spring-boot-security/.idea
+spring-boot-security/*.iws
+spring-boot-security/*.iml
+spring-boot-security/*.ipr
+spring-boot-security/out/
+spring-boot-security/!**/src/main/**/out/
+spring-boot-security/!**/src/test/**/out/
+
+### NetBeans ###
+spring-boot-security/nbproject/private/
+spring-boot-securitynbbuild/
+spring-boot-securitydist/
+spring-boot-securitynbdist/
+spring-boot-security.nb-gradle/
+
+### VS Code ###
+spring-boot-security/.vscode/
